@@ -15,6 +15,7 @@ def calculate_rectangle_area(length, width):
 def calculate_triangle_area(base, height):
     return 0.5 * base * height
 
+
 def main():
     while True:
         display_menu()
